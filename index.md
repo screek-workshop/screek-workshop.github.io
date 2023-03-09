@@ -1,6 +1,9 @@
 ---
 title: 小溪人体传感器
-layout: home
+layout: default
+nav_order: 0
+has_children: false
+has_toc: true
 ---
 
 与HA结合完善的雷达传感器，能够让你的自动化加入雷达的能力，感应到人体进行互动操作。  
