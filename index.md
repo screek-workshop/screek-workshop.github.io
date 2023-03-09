@@ -5,6 +5,7 @@ nav_order: 0
 has_children: false
 has_toc: true
 ---
+{:toc}
 
 与HA结合完善的雷达传感器，能够让你的自动化加入雷达的能力，感应到人体进行互动操作。  
 
@@ -24,6 +25,7 @@ has_toc: true
 
 ## 固件刷写
 如果更新固件遇到问题，可以使用在线工具来进行一个固件的操作。
+
 [ESPHome在线刷写工具](https://web.esphome.io/){: .btn }
 
 ![](assets/16783637105042.jpg)
