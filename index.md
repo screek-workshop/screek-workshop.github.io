@@ -19,6 +19,12 @@ layout: home
 > 
 ![雷达软件图标](assets/app_tools_icon.png)
 
+## 固件刷写
+如果更新固件遇到问题，可以使用在线工具来进行一个固件的操作。
+[ESPHome在线刷写工具](https://web.esphome.io/){: .btn }
+
+![](assets/16783637105042.jpg)
+
 
 ## 其它
 陆续添加中...
