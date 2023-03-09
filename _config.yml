@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: 小溪人体传感器
+description: 适合HA的高级雷达传感器
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://human-1s.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
