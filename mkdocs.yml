@@ -1,0 +1,37 @@
+site_name: 小溪创作坊
+dev_addr: "0.0.0.0:8000"
+theme:
+  # 高档主题。(23年3月11日_21时22分_)
+  name: material
+  # 覆盖主题(23年3月11日_21时51分_)
+  custom_dir: overrides
+  # 中文语言。(23年3月11日_21时22分_)
+  language: zh
+  # 设置主题颜色。(23年3月11日_21时27分_)
+  # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette: 
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - content.action.edit
