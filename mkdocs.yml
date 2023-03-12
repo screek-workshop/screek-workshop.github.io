@@ -91,7 +91,7 @@ markdown_extensions:
 # 网站结构，从这里建造起来。(23年3月12日_16时53分_)
 nav:
   - 欢迎: index.md
-  - 人体存在传感器: 
+  - HA人体存在传感器: 
       - 介绍: presence_sensor/index.md
       - 如何购买: presence_sensor/howtobuy.md
       - 安装与使用: presence_sensor/installation.md
