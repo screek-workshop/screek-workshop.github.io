@@ -10,7 +10,7 @@
 2. 点击下面的用户过滤选项。
 3. 找到我们的头像，进去就能找到啦！:material-emoticon-happy-outline:
 
-![xianyu_search](media/xianyu_search.jpeg)
+![xianyu_search](assets/xianyu_search.jpeg)
 
 ### 淘宝店铺
 

@@ -1,5 +1,7 @@
 ---
 comments: false
+hide:
+  - feedback
 ---
 
 ## 介绍
@@ -19,3 +21,8 @@ comments: false
 ### 高级特色
 - Type-C口除了作为供电，也能作为配网和恢复固件用。
 - 能够插入电脑使用网页版的[ESPHome Web Tools](https://web.esphome.io/)来查看运行日志。
+
+## 产品参数
+
+### 雷达性能
+![性能和参数](assets/xn_ld2410b.png)
