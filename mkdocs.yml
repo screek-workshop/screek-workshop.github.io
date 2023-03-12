@@ -93,7 +93,7 @@ nav:
   - 欢迎: index.md
   - 人体存在传感器: 
       - 介绍: presence_sensor/index.md
-      - 如何购买: presence_sensor/HowToBuy.md
-      - 安装与使用: presence_sensor/Installation.md
-      - 高级调参: presence_sensor/Advanced.md
-      - 常见问题: presence_sensor/FAQ.md
+      - 如何购买: presence_sensor/howtobuy.md
+      - 安装与使用: presence_sensor/installation.md
+      - 高级调参: presence_sensor/advanced.md
+      - 常见问题: presence_sensor/faq.md
