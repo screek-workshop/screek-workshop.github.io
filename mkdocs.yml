@@ -9,6 +9,19 @@ extra:
   analytics:
     provider: google
     property: G-9Q9FX07Q08
+    feedback:
+      title: 这个页面对你有用吗?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: 这个页面有用
+          data: 1
+          note: >-
+            感谢反馈!
+        - icon: material/emoticon-sad-outline
+          name: 这个页面还需要改进
+          data: 0
+          note: >- 
+            感谢你的反馈! 你可以随时在页面底部的评论区给我们反馈让我们做的很好。
 
 theme:
   # 量化主题！(23年3月12日_15时55分_)
