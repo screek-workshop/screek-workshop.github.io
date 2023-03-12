@@ -1,8 +1,11 @@
 site_name: 小溪创作坊
 dev_addr: "0.0.0.0:8000"
 theme:
-  # 高档主题。(23年3月11日_21时22分_)
+  # 量化主题！(23年3月12日_15时55分_)
   name: material
+  # 图标！(23年3月12日_15时55分_)
+  icon:
+    logo: simple/artstation
   # 覆盖主题(23年3月11日_21时51分_)
   custom_dir: overrides
   # 中文语言。(23年3月11日_21时22分_)
