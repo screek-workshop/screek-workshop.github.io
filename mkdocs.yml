@@ -1,5 +1,15 @@
 site_name: 小溪创作坊
 dev_addr: "0.0.0.0:8000"
+extra:
+  consent:
+    title: 隐私声明
+    description: >- 
+      我们使用Cookies来识别你的访问和提供个性化的设置, 用来改善我们的文档让它做的更好。
+      如果你同意的话，你将帮助我们做得更好！
+  analytics:
+    provider: google
+    property: G-9Q9FX07Q08
+
 theme:
   # 量化主题！(23年3月12日_15时55分_)
   name: material
