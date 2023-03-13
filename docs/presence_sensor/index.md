@@ -4,8 +4,6 @@ hide:
   - feedback
 ---
 
-## 介绍
-
 这是一款专门为HomeAssistant定制的人体24G雷达传感器，基于ESPHome固件定制，使用WIFI连接，采用通用的TYPE-C USB供电。  
 
 ## HA界面
