@@ -13,7 +13,13 @@
 
 我们提供了多种配网方式，方便灵活设置。其中包括：
 1. AP配网：连接配网热点，进入设置页面选择网络。
+
+如果没有配网，会有一个热点以`SCREEK HUMAN-SENSOR`开头。  
+![](assets/wifi_ap_connect.png)
+![](assets/wifi_password_input.png)
 2. USB口配网：插入一台电脑，打开一个Chrome浏览器，进入网页连接USB口来选择网络。  
+
+
 
 ### 连接HA
 
