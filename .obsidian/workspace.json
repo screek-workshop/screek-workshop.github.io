@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/presence_sensor/installation.md",
+                "file": "docs/presence_sensor/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/presence_sensor/installation.md",
+                "file": "docs/presence_sensor/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/presence_sensor/installation.md",
+                "file": "docs/presence_sensor/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/presence_sensor/installation.md"
+                "file": "docs/presence_sensor/index.md"
               }
             }
           }
@@ -161,12 +161,16 @@
   },
   "active": "b5057777a5e6b66d",
   "lastOpenFiles": [
+    "docs/presence_sensor/assets/ha_ui_6.png",
+    "docs/presence_sensor/assets/ha_ui_5.png",
+    "docs/presence_sensor/howtobuy.md",
+    "docs/presence_sensor/index.md",
     "docs/presence_sensor/firmware.md",
+    "docs/presence_sensor/installation.md",
     "docs/presence_sensor/assets/Pasted image 20230313212945.png",
     "docs/presence_sensor/assets/Pasted image 20230313212821.png",
     "docs/presence_sensor/assets/Pasted image 20230313212502.png",
     "docs/presence_sensor/advanced.md",
-    "docs/presence_sensor/installation.md",
     "docs/images/favicon.png",
     "docs/images",
     "images/favicon.png",
@@ -175,7 +179,6 @@
     "未命名文件夹",
     "docs/presence_sensor/assets/wifi_password_input.png",
     "docs/presence_sensor/assets/wifi_ap_connect.png",
-    "docs/presence_sensor/index.md",
     "docs/index.md"
   ]
 }
