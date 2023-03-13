@@ -9,9 +9,10 @@ hide:
 !!! info "购买"
 	如果你还没有产品，不妨选购一件！一起探索，一起交流，一起创造！  
 	
-	[:simple-shopee:](presence_sensor/howtobuy.md){.md-button}
+	[选购:simple-shopee:](howtobuy.md){.md-button}
 
 ## HA界面
+
 设备接入后，HomeAssistant中的控制界面如下：
 
 !!! info "固件版本"
