@@ -12,13 +12,14 @@
 
 ![xianyu_search](assets/xianyu_search.jpeg)
 
-### 淘宝店铺
+### 淘宝
 
 !!! 说明
     店铺看着有点简朴，正在逐步优化！欢迎宝贵建议！
 
 进入店铺后，即可找到雷达产品进行选购：
-https://shop34342410.taobao.com/
+
+[小溪创作坊店铺:simple-taobao:](https://shop34342410.taobao.com/){.md-button}
 
 ### 拼多多店铺
 
