@@ -98,3 +98,4 @@ nav:
       - 安装与使用: presence_sensor/installation.md
       - 高级调参: presence_sensor/advanced.md
       - 常见问题: presence_sensor/faq.md
+      - 固件升级: presence_sensor/firmware.md
