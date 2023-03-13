@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/presence_sensor/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/presence_sensor/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/presence_sensor/index.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/index.md"
+            "file": "docs/presence_sensor/index.md"
           }
         }
       }
@@ -133,12 +133,12 @@
   },
   "active": "8a8942c73c55f203",
   "lastOpenFiles": [
+    "docs/presence_sensor/howtobuy.md",
+    "docs/presence_sensor/index.md",
+    "docs/index.md",
     "docs/presence_sensor/assets/72737DF1-6E6F-42B0-B0F2-4625C30F3384.png",
     "docs/presence_sensor/assets/0ACB9695-3EE8-4EB2-AE72-819FED4D3560.png",
     "docs/presence_sensor/assets/55BC106E-92D8-4B58-AB0B-53107CA61FF7.png",
-    "docs/presence_sensor/index.md",
-    "docs/presence_sensor/howtobuy.md",
-    "docs/index.md",
     "docs/presence_sensor/assets/wifi_password_input.png",
     "docs/presence_sensor/assets/wifi_ap_connect.png",
     "docs/presence_sensor/installation.md",
