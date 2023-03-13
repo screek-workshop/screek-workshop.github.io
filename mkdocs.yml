@@ -26,6 +26,7 @@ extra:
 theme:
   # 量化主题！(23年3月12日_15时55分_)
   name: material
+  favicon: images/favicon.png
   # 图标！(23年3月12日_15时55分_)
   icon:
     logo: simple/artstation
