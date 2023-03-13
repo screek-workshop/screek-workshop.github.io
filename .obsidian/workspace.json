@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/presence_sensor/advanced.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5057777a5e6b66d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/presence_sensor/index.md",
+                "file": "docs/presence_sensor/howtobuy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/presence_sensor/index.md",
+                "file": "docs/presence_sensor/howtobuy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/presence_sensor/index.md",
+                "file": "docs/presence_sensor/howtobuy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/presence_sensor/index.md"
+                "file": "docs/presence_sensor/howtobuy.md"
               }
             }
           }
@@ -159,18 +146,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5057777a5e6b66d",
+  "active": "86a98a397728aa70",
   "lastOpenFiles": [
+    "docs/presence_sensor/advanced.md",
+    "docs/presence_sensor/index.md",
     "docs/presence_sensor/assets/ha_ui_6.png",
     "docs/presence_sensor/assets/ha_ui_5.png",
     "docs/presence_sensor/howtobuy.md",
-    "docs/presence_sensor/index.md",
     "docs/presence_sensor/firmware.md",
     "docs/presence_sensor/installation.md",
     "docs/presence_sensor/assets/Pasted image 20230313212945.png",
     "docs/presence_sensor/assets/Pasted image 20230313212821.png",
     "docs/presence_sensor/assets/Pasted image 20230313212502.png",
-    "docs/presence_sensor/advanced.md",
     "docs/images/favicon.png",
     "docs/images",
     "images/favicon.png",
